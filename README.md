@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindu007" alt="ravindu007" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development, ASP.NET**
+- 🌱 **Continous Learner **
 
-- 💬 Ask me about **MERN Stack**
+- 💬 **Inter Software Engineer**
 
 - 📫 How to reach me **ravindu0504dharmadasa@gmail.com**
 
