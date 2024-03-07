@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindu007" alt="ravindu007" /></a> </p>
 
-- 🌱 **Continous Learner **
+- 🌱 **Continous Learner**
 
 - 💬 **Inter Software Engineer**
 
