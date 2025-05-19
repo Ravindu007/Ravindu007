@@ -9,7 +9,7 @@
 
 - 🌱 **Continous Learner**
 
-- 💬 **Intern Software Engineer**
+- 💬 **Associate Software Engineer**
 
 - 📫 How to reach me **ravindu0504dharmadasa@gmail.com**
 
